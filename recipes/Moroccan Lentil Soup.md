@@ -1,0 +1,36 @@
+---
+share: true
+title: Moroccan Lentil Soup
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-26 Wed
+tags:
+  - recipes
+  - soup
+  - moroccan
+---
+
+Moroccan Lentil Soup
+* Ingredients:
+- 2 onions (chopped)
+- 2 cloves garlic (minced)
+- 1 tsp Fresh Ginger (grated)
+- 6 C Water
+- 1 C Red Lentils
+- 1 15-Oz Can Chickpeas (drained)
+- 1 19-Oz Can Cannellini Beans
+- 1 14.5-Oz Can Diced Tomatoes
+- 1/2 C Carrots (diced)
+- 1/2 C Celery (chopped)
+- 1 tsp Garam Masala
+- 1 1/2 tsp Ground Cardamom
+- 1/2 tsp Cayenne Pepper
+- 1/2 tsp Ground Cumin
+- 1 T olive oil
+
+* Method:
+1. In large pot saute the onions, garlic, and ginger in olive oil until onions become translucent.
+2. Add the remaining ingredients
+3. Boil for a few minutes then simmer until the lentils are soft.
+4. Puree half the soup in a blender.
+5. Return the pureed soup to the pot, stir and enjoy!
