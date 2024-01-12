@@ -1,0 +1,38 @@
+---
+share: true
+title: Zucchini Bread
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-26 Wed
+tags:
+  - recipes
+  - dessert
+  - bread
+---
+
+Zucchini Bread
+* Ingredients:
+- 3 C Flour
+- 1 tsp Salt
+- 1 tsp Baking Soda
+- 1 tsp Baking Powder
+- 2 tsp Ground Cinnamon
+- 1 tsp Ground Nutmeg
+- 3 [[Flax Eggs|Flax Eggs]]
+- 1 C Vegetable Oil
+- 2 1/4 C Sugar
+- 3 tsp Vanilla Extract
+- 2 C Zucchini (grated)
+- 1 C Walnuts (chopped)
+
+* Method:
+1. Preheat oven to 325 degrees F (165 degrees C).
+2. Grease and flour two 8 x 4 inch pans.
+3. Sift flour, salt, baking powder, soda, and cinnamon together in a bowl.
+4. Beat eggs, oil, vanilla, and sugar together in a large bowl.
+5. Add sifted ingredients to the creamed mixture, and beat well.
+6. Stir in zucchini and nuts until well combined.
+7. Pour batter into prepared pans.
+8. Bake for 40 to 60 minutes, or toothpick inserted in the center comes out clean.
+9. Cool in pan on rack for 20 minutes.
+10. Remove bread from pan, and completely cool.
