@@ -1,0 +1,47 @@
+---
+share: true
+title: Dogfish Head 90 Minute IPA Clone
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-25 Tue
+tags:
+  - recipes
+  - beer
+  - ipa
+  - clone
+---
+
+An Extract Clone of Dogfish Head's 90 Minute IPA
+
+* Ingredients:
+** Specialty Grains
+- 0.75 lbs. Dingemans Caramel Pils
+- 0.25 lbs. Briess Caramel 120
+
+** Fermentables:
+- 3 lbs. Pilsen Malt Syrup (boil for 60 min.)
+- 9 lbs. Pilsen Malt Syrup (boil for 15 min.)
+
+** Hops:
+*** Continuously Hopped
+- 2 oz Amarillo
+- 0.5 oz Simcoe
+- 0.5 oz Warrior
+*** Dry Hopped:
+- 1 oz Amarillo
+- 0.5 oz Simcoe
+- 0.5 oz Warrior
+
+** Yeast:
+- Wyeast #1056 American Ale Yeast.
+
+* Method:
+1. Steep specialty grains at 150F for 30 minutes in 6 Gals of water.
+2. Remove steeped grains.
+3. Add fermentables and raise temperature to boiling.
+4. Once the syrups have dissolved begin adding the continuous hop additions.
+   I tend to add them even every 5 to 10 minutes over the 90 minute boil time.
+5. Transfer wort to fermentation chamber and let cool.
+6. Add yeast and rest of hops.
+7. Let ferment for a week.
+8. Bottle.
