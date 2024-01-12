@@ -1,0 +1,28 @@
+---
+share: true
+title: Cloud Bread
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-26 Wed
+tags:
+  - recipes
+  - keto
+  - bread
+---
+
+Cloud Bread
+* Ingredients:
+- 3 Eggs (separated)
+- 1/4 tsp Baking Powder
+- 3 T Cream cheese
+- 1 T Honey
+- dash rosemary (optional)
+
+* Method:
+1. Preheat oven to 300F.
+2. In a medium bowl beat egg whites and baking powder together until stiff peaks form.
+3. In a separate large bown beat egg yolks, cream cheese, and honey together.
+4. Gently combine all ingredients.
+5. On a parchment lined baking sheet pour 6 round dollops of mix.
+6. Sprinkle rosemary on top of each dollop.
+7. Bake at 300F for 17-20 minutes.

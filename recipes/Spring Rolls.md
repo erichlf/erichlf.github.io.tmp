@@ -1,0 +1,40 @@
+---
+share: true
+title: Vietnamese Spring Rolls
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-25 Tue
+tags:
+  - recipes
+  - vegan
+  - appetizer
+  - vietnamese
+---
+
+Vietnamese Spring Rolls
+* Ingredients:
+** Peanut Sauce:
+- 1 C of peanut butter
+- 1 C of hot water
+- 1/4 C of soy sauce
+- 1/4 C of molasses (regular, not blackstrap)
+- 1/2 C of white vinegar
+- 1 tsp of cayenne pepper
+- 1/2 tsp of ground ginger
+- 2-4 T of sugar (depending on what you like, just taste as you go)
+
+** Rolls:
+- 8 rice paper rounds
+- 100g vermicelli rice noodles
+- 1 C shredded lettuce
+- 1 Cucumber, cut into thin strips
+- 1/2 C bean sprouts
+- 1/2 C grated carrot
+- fresh Vietnamese mint, chopped
+- fresh coriander, chopped
+- garlic chive (optional)
+
+* Method:
+1. Mix all peanut sauce together in a small bowl.
+2. Soak rice paper in lukewarm water until they become soft.
+3. Fill rice paper with ingredients like you are making a burrito.

@@ -1,0 +1,27 @@
+---
+share: true
+title: Ayib
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-26 Wed
+tags:
+  - recipes
+  - ethiopian
+  - entree
+---
+
+Ayib
+* Ingredients:
+- 1/2 Gal Milk
+- 2/3 C Lemon Juice
+
+* Method:
+1. Bring the milk to a boil over high heat.
+2. Reduce the heat to medium and pour in the lemon juice.
+3. Reduce heat to low and cook, stirring constantly, until curds begin to form.
+4. Remove from heat.
+5. Line a sieve or colander with cheesecloth (or use a very fine sieve).
+6. Spoon the curdled milk into the sieve or colander and rinse with cold, running water
+   to remove any lingering lemon flavor from the curds.
+7. Refrigerate and let drain for 8 hours or overnight.
+8. Discard the liquid.
