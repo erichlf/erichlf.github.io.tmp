@@ -1,0 +1,56 @@
+---
+share: true
+title: Rawvioli
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-26 Wed
+tags:
+  - recipes
+  - vegan
+  - raw
+  - entree
+  - italian
+---
+
+Rawvioli
+* Ingredients:
+** Wrappers:
+- 4 Turnips
+
+** Cheese Filling:
+- 1 C Pine Nuts
+- 1 C Macadamia Nuts
+- 1 C Walnuts
+- 6 tsp Bragg's
+- 8 tsp Lemon Juice
+- 2 Cloves Garlic
+- 1 C parsley
+
+** Tomato Sauce:
+- 2 Tomatoes
+- 1/2 C Sun-Dried Tomatoes
+- 1/4 C Basil
+- 1 Clove Garlic
+- 6 Dates
+- Dash Olive Oil (optional)
+
+* Method:
+** Wrappers:
+1. Peel the turnips.
+2. Slice the turnips into very thin disk slices.
+
+** Cheese Filling:
+1. Grind the pine nuts, macadamia nuts, and walnuts in a food processor.
+2. Add the rest of the ingredients and blend until creamy.
+
+** Tomato Sauce:
+1. Soak the sun-dried tomatoes until soft.
+2. Blend tomatoes, sun-dried tomatoes, basil, and garlic in food processor until smooth.
+3. Add the dates and olive oil and blend until smooth.
+
+** Assembly:
+1. Remove a single turnip slice.
+2. Place a teaspoon of cheese filling in the turnip slice and fold the turnip over until all the sides meet.
+3. Squeeze the edges together. The filling will help stick the wrapper to itself.
+4. Place rawvioli in a single layer on a large plate and drizzle sauce over them.
+5. Allow to sit for a few hours.
