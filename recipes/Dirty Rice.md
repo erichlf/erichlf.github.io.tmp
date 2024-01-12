@@ -1,0 +1,37 @@
+---
+share: true
+title: Dirty Rice
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-26 Wed
+tags:
+  - recipes
+  - vegan
+  - entree
+---
+
+Dirty Rice
+* Ingredients:
+- 4 T Olive Oil
+- 1 T Plant Based Butter
+- 1 Onion (diced)
+- 2 Garlic Cloves (minced)
+- 1 tsp Dry Basil
+- 1 tsp Dry Oregano
+- 1 tsp Chili Powder
+- 1 tsp Paprika
+- 1/2 tsp Crushed Red Pepper
+- 2 C Jasmin Rice or Any Long Grain Rice
+- 2 C Vegetarian Broth
+- 1 C Water
+- Salt and Pepper (to taste)
+
+* Method:
+1. Heat a 2 qt. sauce pan to high.
+2. Place olive oil and butter in pan.
+3. Saute onion, garlic until translucent.
+4. Add basil, oregano, chili powder, paprika, red pepper and rice.
+5. Saute rice for three minutes, stirring occasionally.
+6. Add broth and water, stir.
+7. Bring to a boil for five minutes.
+8. Reduce heat to low and simmer for 20- 25 minutes or until liquid has evaporated.
