@@ -1,6 +1,6 @@
 site_name: The Stuff I Found Along the Way # Change this to your site name
 site_description: A collection of things I have learned in life, including recipes.
-site_url: erichlf.github.io # Change this to your site URL
+site_url: http://erichlf.github.io # Change this to your site URL
 site_author: Erich L Foster
 
 theme:
