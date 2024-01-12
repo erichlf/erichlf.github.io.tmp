@@ -1,0 +1,37 @@
+---
+share: true
+title: Pumpkin Pie Bars
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-26 Wed
+tags:
+  - recipes
+  - keto
+  - dessert
+---
+
+Pumpkin Pie Bars
+* Ingredients:
+- 1 C Coconut Flour
+- 1/2 C Protein Powder
+- 2 T Granulated Sweetener of Choice
+- 1 T Cinnamon
+- 1/2 tsp Ground Cloves
+- 1 tsp Ground Ginger
+- 1/4 C Almond Butter
+- 1/2 C Sugar Free Maple Syrup
+- 1/2 C Pumpkin Puree (not pumpkin pie filling!)
+- 2-3 T Unsweetened Almond Milk (or cashew, or whatever)
+
+* Method:
+1. Line a large baking dish with parchment paper and set aside.
+2. In large mixing bowl, combine the flour, protein powder, granulated sweetener, and
+   spices and mix well.
+3. In a microwave-safe bowl, combine the nut butter and sugar free maple syrup, and
+   heat until melted.
+4. Pour the wet mixture into the dry and mix well.
+5. Add the pumpkin puree and mix until combined.
+6. Using a spoon, add the milk one spoonful at a time until a thick, firm dough is formed.
+7. Transfer to lined baking dish and press firmly.
+8. Refrigerate for at least 30 minutes.
+9. Cut mine into 12 bars.
