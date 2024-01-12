@@ -1,0 +1,37 @@
+---
+share: true
+title: Spicy Black Bean Burgers
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-26 Wed
+tags:
+  - recipes
+  - vegan
+  - entree
+---
+
+Spicy Black Bean Burgers
+* Ingredients
+- 2 C Dry Black Beans (or 2 16 Oz Cans)
+- 2 Jalepenos (diced)
+- 1 Red Pepper (diced)
+- 1/2 Green Pepper (diced)
+- 1/2 Onion (diced)
+- 4 Cloves Garlic (diced)
+- 1 C Breadcrumbs
+- 1 tsp cumin
+- 1 tsp chili powder
+- 1 tsp oregano
+- Oil for frying
+- Salt and pepper
+
+* Method:
+1. Saute veggies in a few tablespoons of oil until they are a bit soft, but not browned.
+2. Cook the beans according to the directions on the package.  If you are using dry
+   beans you’ll need to soak them overnight.
+3. Add your breadcrumbs to beans and mash up the beans and breadcrumbs. You want them to
+   still have plenty of texture, but just broken up a bit.
+4. Mix in your sauteed veggies and all your other spices.
+5. Form about 4 Oz patties.
+6. Cook in a few tablespoons of oil over medium high heat for about 4 minutes per side
+   or until browned.
