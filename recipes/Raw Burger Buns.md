@@ -1,0 +1,35 @@
+---
+share: true
+title: Raw Burger Buns
+author: Erich L Foster
+email: erichlf AT gmail DOT com
+date: 2020-08-26 Wed
+tags:
+  - recipes
+  - vegan
+  - raw
+  - bread
+---
+
+Raw Burger Buns
+* Ingredients:
+- 2 C Sprouted Buckwheat
+- 3/4 C Flax Seeds (soaked)
+- 3/4 C Carrots
+- 1/2 C Olive Oil
+- 1 tsp Curry
+- 1/2 tsp Rosemary (dried)
+- 1/2 tsp Thyme (dried)
+- 1 Clove Garlic
+- 1 tsp Sea Salt
+- Sesame Seeds (optional)
+
+* Method:
+1. Shred the carrots in a food processor until they are diced.
+2. Add remaining ingredients to food processor and blend well until dough-like.
+3. Form into buns and place on mesh screens on dehydrator screens.
+4. Sprinkle with sesame seeds if desired.
+5. Dehydrate at 105 degrees for 24 hours.
+
+* Note:
+These should be firm but not hard.
